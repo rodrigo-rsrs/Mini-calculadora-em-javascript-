@@ -1,2 +1,2 @@
-# Mini-calculadora-em-javascript-
+# mini-calculadora-js
 Mini calculadora feita em JavaScript usando condicionais (if/else) e entrada de dados com prompt.
